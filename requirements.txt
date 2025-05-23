@@ -1,3 +1,11 @@
+undetected_chromedriver
+httpx
+cloudscraper
+pysocks
+socks
+argparse
+Crypto
+PyCryptoDome
 colorama==0.4.6
 cloudscraper==1.2.71
 scapy==2.5.0
